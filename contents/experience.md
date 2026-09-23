@@ -1,21 +1,14 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **校园经历与实践**
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+**北京化工大学 — 百度松果人才培养菁英班**
+- 参加人才培养项目并多次获得优秀称号，持续提升技术实践与综合能力。
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+**校园实践与志愿服务**
+- 参加学校组织的多种实践活动和志愿服务活动，具备良好的协作意识与责任感。
 
----
+### **Technical Profile**
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+- 能够使用 Python、C/C++ 完成编程与算法实践。
+- 熟悉 Linux 开发环境和 Git 工程管理工具。
+- 熟悉 PyTorch、Transformer 架构及 LLM 训练、推理流程。
+- 掌握 MATLAB 等工程计算工具，具备自动化与控制工程基础。
